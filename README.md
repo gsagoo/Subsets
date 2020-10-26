@@ -1,8 +1,7 @@
 # Subsets
 C++ Code to calculate the subsets of a Parent set with elements 1 to n.
-
-### subsets_recursive.cpp Recursive algorithm
-### subsets_iterative.cpp Iterative algorithm
+subsets_recursive.cpp (uses a recursive algorithm)
+subsets_iterative.cpp (uses an iterative algorithm)
 
 You can compile each source file using the commands below 
 
